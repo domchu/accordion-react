@@ -7,6 +7,7 @@ Variables
 :root {
   --clr-white: #fff;
   --clr-purple: #4b145b;
+  --clr-red-special: #b4345c;
   --clr-grey-special: #eae6eb;
   --clr-black: #222;
   --transition: all 0.3s linear;
